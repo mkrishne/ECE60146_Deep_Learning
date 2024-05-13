@@ -1,0 +1,35 @@
+[epoch=1/6, iter= 500  elapsed_time= 29 secs]  MSE loss: 654.224
+[epoch=1/6, iter=1000  elapsed_time= 61 secs]  MSE loss: 617.767
+[epoch=1/6, iter=1500  elapsed_time= 91 secs]  MSE loss: 611.598
+[epoch=1/6, iter=2000  elapsed_time=121 secs]  MSE loss: 599.941
+[epoch=1/6, iter=2500  elapsed_time=151 secs]  MSE loss: 590.066
+
+[epoch=2/6, iter= 500  elapsed_time=182 secs]  MSE loss: 577.660
+[epoch=2/6, iter=1000  elapsed_time=211 secs]  MSE loss: 574.854
+[epoch=2/6, iter=1500  elapsed_time=242 secs]  MSE loss: 582.623
+[epoch=2/6, iter=2000  elapsed_time=272 secs]  MSE loss: 571.850
+[epoch=2/6, iter=2500  elapsed_time=303 secs]  MSE loss: 567.691
+
+[epoch=3/6, iter= 500  elapsed_time=334 secs]  MSE loss: 577.965
+[epoch=3/6, iter=1000  elapsed_time=364 secs]  MSE loss: 561.645
+[epoch=3/6, iter=1500  elapsed_time=393 secs]  MSE loss: 562.208
+[epoch=3/6, iter=2000  elapsed_time=424 secs]  MSE loss: 561.182
+[epoch=3/6, iter=2500  elapsed_time=453 secs]  MSE loss: 573.920
+
+[epoch=4/6, iter= 500  elapsed_time=485 secs]  MSE loss: 566.718
+[epoch=4/6, iter=1000  elapsed_time=515 secs]  MSE loss: 569.124
+[epoch=4/6, iter=1500  elapsed_time=545 secs]  MSE loss: 565.635
+[epoch=4/6, iter=2000  elapsed_time=575 secs]  MSE loss: 558.697
+[epoch=4/6, iter=2500  elapsed_time=605 secs]  MSE loss: 555.742
+
+[epoch=5/6, iter= 500  elapsed_time=637 secs]  MSE loss: 558.925
+[epoch=5/6, iter=1000  elapsed_time=667 secs]  MSE loss: 567.434
+[epoch=5/6, iter=1500  elapsed_time=697 secs]  MSE loss: 558.364
+[epoch=5/6, iter=2000  elapsed_time=727 secs]  MSE loss: 560.314
+[epoch=5/6, iter=2500  elapsed_time=758 secs]  MSE loss: 561.624
+
+[epoch=6/6, iter= 500  elapsed_time=788 secs]  MSE loss: 559.419
+[epoch=6/6, iter=1000  elapsed_time=819 secs]  MSE loss: 564.538
+[epoch=6/6, iter=1500  elapsed_time=849 secs]  MSE loss: 553.233
+[epoch=6/6, iter=2000  elapsed_time=879 secs]  MSE loss: 562.010
+[epoch=6/6, iter=2500  elapsed_time=909 secs]  MSE loss: 559.245

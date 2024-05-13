@@ -1,0 +1,37 @@
+[epoch=1/6, iter= 500  elapsed_time= 23 secs]   MSE loss: 448.301
+[epoch=1/6, iter=1000  elapsed_time= 46 secs]   MSE loss: 424.992
+[epoch=1/6, iter=1500  elapsed_time= 70 secs]   MSE loss: 404.122
+[epoch=1/6, iter=2000  elapsed_time= 92 secs]   MSE loss: 381.505
+[epoch=1/6, iter=2500  elapsed_time=114 secs]   MSE loss: 381.583
+
+[epoch=2/6, iter= 500  elapsed_time=138 secs]   MSE loss: 376.828
+[epoch=2/6, iter=1000  elapsed_time=160 secs]   MSE loss: 378.035
+[epoch=2/6, iter=1500  elapsed_time=182 secs]   MSE loss: 369.830
+[epoch=2/6, iter=2000  elapsed_time=204 secs]   MSE loss: 370.051
+[epoch=2/6, iter=2500  elapsed_time=227 secs]   MSE loss: 376.467
+
+[epoch=3/6, iter= 500  elapsed_time=250 secs]   MSE loss: 368.708
+[epoch=3/6, iter=1000  elapsed_time=272 secs]   MSE loss: 369.830
+[epoch=3/6, iter=1500  elapsed_time=296 secs]   MSE loss: 368.393
+[epoch=3/6, iter=2000  elapsed_time=320 secs]   MSE loss: 363.969
+[epoch=3/6, iter=2500  elapsed_time=342 secs]   MSE loss: 360.249
+
+[epoch=4/6, iter= 500  elapsed_time=365 secs]   MSE loss: 363.721
+[epoch=4/6, iter=1000  elapsed_time=387 secs]   MSE loss: 369.696
+[epoch=4/6, iter=1500  elapsed_time=410 secs]   MSE loss: 363.101
+[epoch=4/6, iter=2000  elapsed_time=432 secs]   MSE loss: 359.711
+[epoch=4/6, iter=2500  elapsed_time=454 secs]   MSE loss: 360.502
+
+[epoch=5/6, iter= 500  elapsed_time=477 secs]   MSE loss: 362.173
+[epoch=5/6, iter=1000  elapsed_time=499 secs]   MSE loss: 356.889
+[epoch=5/6, iter=1500  elapsed_time=523 secs]   MSE loss: 360.087
+[epoch=5/6, iter=2000  elapsed_time=545 secs]   MSE loss: 364.847
+[epoch=5/6, iter=2500  elapsed_time=567 secs]   MSE loss: 361.104
+
+[epoch=6/6, iter= 500  elapsed_time=591 secs]   MSE loss: 362.831
+[epoch=6/6, iter=1000  elapsed_time=613 secs]   MSE loss: 361.341
+[epoch=6/6, iter=1500  elapsed_time=635 secs]   MSE loss: 359.866
+[epoch=6/6, iter=2000  elapsed_time=658 secs]   MSE loss: 363.710
+[epoch=6/6, iter=2500  elapsed_time=681 secs]   MSE loss: 353.697
+
+Finished Training
